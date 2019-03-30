@@ -30,7 +30,7 @@ quick usage tips:
 
 
 <shilling>
-Found it usefull and want to say thanks? You can do it through paypal: [paypal.me/propiro](paypal.me/propiro)
-Otherwise, crediting me and/or linking my artstation page [LINK](https://www.artstation.com/propiro/albums/662894) would greatly help anyway!
+Found it usefull and want to say thanks? You can do it through paypal: ![paypal.me/propiro](https://paypal.me/propiro)
+Otherwise, crediting me and/or linking my artstation page ![LINK](https://www.artstation.com/propiro/albums/662894) would greatly help anyway!
 </shilling>
 
