@@ -5,6 +5,7 @@ Lets you easily move operands through their wireframed instances, giving you dir
 Check video for short presentation about what it can do:
 
 [![](https://i.imgur.com/3MYJkHt.png)](https://youtu.be/cSN2Yav5-wI)
+
 https://youtu.be/cSN2Yav5-w
 
 You can bind functions to toolbar / quads / keys as you like.
@@ -29,7 +30,7 @@ quick usage tips:
 
 
 <shilling>
-Found it usefull and want to say thanks? You can do it through paypal: paypal.me/propiro
-Otherwise, crediting me and/or linking my artstation page https://www.artstation.com/propiro/albums/662894 would greatly help anyway!
+Found it usefull and want to say thanks? You can do it through paypal: [paypal.me/propiro](paypal.me/propiro)
+Otherwise, crediting me and/or linking my artstation page [LINK](https://www.artstation.com/propiro/albums/662894) would greatly help anyway!
 </shilling>
 
