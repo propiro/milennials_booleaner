@@ -4,11 +4,11 @@ Lets you easily move operands through their wireframed instances, giving you dir
 
 Check video for short presentation about what it can do:
 
-![](https://youtu.be/cSN2Yav5-wI)
-
+[![](https://i.imgur.com/3MYJkHt.png)](https://youtu.be/cSN2Yav5-wI)
+https://youtu.be/cSN2Yav5-w
 
 You can bind functions to toolbar / quads / keys as you like.
-please use it first on something simple and set up proboolean modifier as follows:
+please use it first on something simple and set up proboolean modifier as follows: (need to set up "reference" instead of default "move")
 
 ![](https://i.imgur.com/65Lgnpg.png)
 
@@ -21,12 +21,15 @@ quickClean - quickly clean any isolated verticles. They rarely appear, but in ca
 quickLowpolyStack (shamelessly stolen from Ben Bolton post here: https://polycount.com/discussion/168610/3ds-max-zbrush-proboolean-dynamesh-hardsurface-workflow-tutorial thanks Ben!) - creates geometry that makes more sense than default boolean output.
 
 quick usage tips:
-1. works best on editable poly objects.
-2. select at least 2 objects - first one will be booleaned, rest are operands.
-3. you can experiment with "planar edge removal" options on proboolean modifier. might give you cleaner topology results depending on the mesh.
-4. remember to SAVE A COPY before using probooleans, it might broke everything and set your cat on fire.
+1. you might want to use shaded wireframein viewport to see operands.
+2. works best on editable poly objects.
+3. select at least 2 objects - first one will be booleaned, rest are operands.
+4. you can experiment with "planar edge removal" options on proboolean modifier. might give you cleaner topology results depending on the mesh.
+5. remember to SAVE A COPY before using probooleans, it might broke everything and set your cat on fire.
 
 
-
-
+<shilling>
+Found it usefull and want to say thanks? You can do it through paypal: paypal.me/propiro
+Otherwise, crediting me and/or linking my artstation page https://www.artstation.com/propiro/albums/662894 would greatly help anyway!
+</shilling>
 
