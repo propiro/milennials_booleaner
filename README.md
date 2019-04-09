@@ -1,8 +1,20 @@
 # milennials_booleaner
 Booleaner helper for 3ds max.
 Lets you easily move operands through their wireframed instances, giving you direct control on the output on the mesh. Perfect for Zbrush dynamesh + Max workflows.
+Faster substraction:
 
-Check video for short presentation about what it can do:
+![https://i.imgur.com/6UDd7wi.gif](https://i.imgur.com/6UDd7wi.gif)
+
+Realtime Operand editing:
+
+![https://i.imgur.com/fuKCdjX.gif](https://i.imgur.com/fuKCdjX.gif)
+
+Geometry update on the go:
+
+![https://i.imgur.com/LXj25ET.gif](https://i.imgur.com/LXj25ET.gif)
+
+
+Check video for short presentation about how it works:
 
 [![](https://i.imgur.com/3MYJkHt.png)](https://youtu.be/cSN2Yav5-wI)
 
