@@ -18,7 +18,7 @@ Check video for short presentation about how it works:
 
 [![](https://i.imgur.com/3MYJkHt.png)](https://youtu.be/cSN2Yav5-wI)
 
-https://youtu.be/cSN2Yav5-w
+https://www.youtube.com/watch?v=cSN2Yav5-wI&feature=youtu.be
 
 You can bind functions to toolbar / quads / keys as you like.
 please use it first on something simple and set up proboolean modifier as follows: (need to set up "reference" instead of default "move")
